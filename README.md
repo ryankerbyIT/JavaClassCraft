@@ -2,23 +2,26 @@
 Welcome to the OOP Fundamentals Suite! This project folder contains a collection of Java programs designed to introduce and reinforce key Object-Oriented Programming (OOP) concepts. Each program demonstrates different aspects of OOP, including class creation, encapsulation, inheritance, and interactions between objects.
 # Table of Contents
 
-* [Introduction](#introduction)
-* [Project Overview](#project-overview)
-* [Getting Started](#getting-started)
-* [Prerequisites](#prerequisites)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Classes Overview](#classes-overview)
-    1. - [Area Calculator Classes](#area-calculator-classes)
-    2. - [RoomCarpet and RoomDimension Classes](#roomcarpet-and-roomdimension-classes)
-    3. - [LandTract Class](#landtract-class)
-    4. - [Month Class](#month-class)
-    5. - [CashRegister and RetailItem Classes](#cashregister-and-retailitem-classes)
-    6. - [Car Instrument Simulator](#car-instrument-simulator)
-    7. - [First to One Game](#first-to-one-game)
-* [Future Enhancements](#future-enhancements)
-* [Contributing](#contributing)
-* [License](#license)
+# Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Overview](#project-overview)
+3. [Getting Started](#getting-started)
+   - [Prerequisites](#prerequisites)
+   - [Running the Programs](#running-the-programs)
+4. [Classes Overview](#classes-overview)
+   1. [Area Calculator Classes](#area-calculator-classes)
+   2. [RoomCarpet and RoomDimension Classes](#roomcarpet-and-roomdimension-classes)
+   3. [LandTract Class](#landtract-class)
+   4. [Month Class](#month-class)
+   5. [CashRegister and RetailItem Classes](#cashregister-and-retailitem-classes)
+   6. [Car Instrument Simulator](#car-instrument-simulator)
+   7. [First to One Game](#first-to-one-game)
+5. [Learning Objectives](#learning-objectives)
+6. [Future Enhancements](#future-enhancements)
+7. [Contributing](#contributing)
+8. [License](#license)
+
 
 ## Overview
 The purpose of this suite is to provide hands-on experience with the basic building blocks of OOP in Java. These exercises focus on creating reusable, well-structured classes and demonstrating how objects interact in various real-world simulations and problem-solving scenarios.
